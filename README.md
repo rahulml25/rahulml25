@@ -6,6 +6,9 @@
 - 📫 How to reach me-- *I need private time 😊*.
 ------------------------------------------------------------------------------------------------------------------------------
 - Follow me on [Facebook](https://www.facebook.com/RahulML25)
+- Follow me on [YouTube]()
+- Follow me on [Instagram]()
+
 <!---
 RahulML2505GitHub/RahulML2505GitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
