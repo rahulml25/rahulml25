@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on YouTube.
-- 📫 How to reach me-- *I need private time 😊*.
+- 📫 How to reach me-- **I need private time 😊**.
 ------------------------------------------------------------------------------------------------------------------------------
 - Follow me on [Facebook](https://www.facebook.com/RahulML25).
 - Follow me on [YouTube](https://youtube.com/channel/UCG_NXFxjczUzpq1sVWNfMEw).
