@@ -1,5 +1,5 @@
 ## [RahulML2505GitHub](https://github.com/RahulML2505GitHub)
-- 👋 Hi, I’m [RahulML2505SUNKEN](https://github.com/RahulML2505GitHub)
+- 👋 Hi, I’m [RahulML2505](https://github.com/RahulML2505GitHub)
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on YouTube.
