@@ -6,7 +6,7 @@
 - 📫 How to reach me - **I need private time 😊**.
 ------------------------------------------------------------------------------------------------------------------------------
 - Follow me on [Twitter](https://twitter.com/RahulTheCoder).
-- Follow me on [YouTube](https://youtube.com/channel/@rahulml2505).
+- Follow me on [YouTube](https://youtube.com/channel/@RahulTheCoder).
 - Follow me on [Facebook](https://www.facebook.com/rahulml2505).
 - Follow me on [Instagram](https://www.instagram.com/rahul_mondal_coder).
 
