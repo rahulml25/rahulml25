@@ -1,11 +1,11 @@
-## [RahulMLCoder](https://github.com/RahulMLCoder)
-- 👋 Hi, I’m [Rahul](https://github.com/RahulMLCoder)
+## [rahulmlcoder](https://github.com/rahulmlcoder)
+- 👋 Hi, I’m [Rahul](https://github.com/rahulmlcoder)
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on YouTube.
 - 📫 How to reach me - **I need private time 😊**.
 ------------------------------------------------------------------------------------------------------------------------------
-- Follow me on [Twitter](https://twitter.com/RahulTheCoder).
+- Follow me on [Twitter](https://twitter.com/rahulmlcoder).
 - Follow me on [YouTube](https://youtube.com/channel/@RahulTheCoder).
 - Follow me on [Facebook](https://www.facebook.com/RahulTheCoder).
 - Follow me on [Instagram](https://www.instagram.com/rahul_mondal_coder).
