@@ -7,7 +7,8 @@
 ------------------------------------------------------------------------------------------------------------------------------
 - Follow me on [Twitter](https://twitter.com/rahulmondal25).
 - Follow me on [YouTube](https://youtube.com/channel/@RahulTheCoder).
-- Follow me on [Facebook](https://www.facebook.com/RahulTheCoder).
+- Follow me on [Linkedin](https://www.linkedin.com/in/rahulmondal25).
+- Follow me on [Facebook](https://www.facebook.com/rahulthecoder).
 - Follow me on [Instagram](https://www.instagram.com/rahulmondal_25).
 
 <!---
